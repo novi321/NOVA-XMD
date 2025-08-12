@@ -74,3 +74,4 @@ async (conn, mek, m, { from, isGroup, isAdmins, isBotAdmins, q, reply }) => {
         `.trim(), { quoted: quotedContact, contextInfo });
     }
 });
+            
